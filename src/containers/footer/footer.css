@@ -1,0 +1,17 @@
+.footer {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+.middle {
+  display: flex;
+  flex-direction: row;
+  padding: 10px 20px;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 10px;
+}
